@@ -1,0 +1,14 @@
+
+streamlit
+pandas
+altair
+numpy
+matplotlib
+pillow
+prophet
+xgboost
+statsmodels
+scikit-learn
+
+# Optional
+# pmdarima
