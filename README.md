@@ -58,3 +58,18 @@ macro_ai_project/
 ├─ .gitignore
 ├─ README.md
 └─ requirements.txt                  # Python dependencies (to be filled)
+
+## Setup
+- **1. Create & activate a virtual environment (Windows)**
+       cd macro_ai_project
+
+        py -m venv .venv
+        .\.venv\Scripts\activate
+- **2. Install dependencies**
+   Create requirements.txt (if not already present) with something like:
+    pandas
+    python-dotenv
+    google-generativeai
+   
+   Then install:
+     pip install -r requirements.txt  
